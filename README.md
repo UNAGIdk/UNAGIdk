@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UNAGIdk
+- 👋 Hi, I’m @UNAGIdk!
 - 👀 I’m currently interested in C# programming and Unity game development. Also i've practiced programming on C++, JS and Java.
 - 🌱 I’m currently practicing to implement different game mechanics and design game levels, using C# & Unity.
 - 💞️ I’m looking to collaborate on any Unity gamedev projects.
